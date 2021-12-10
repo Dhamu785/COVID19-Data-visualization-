@@ -1,5 +1,5 @@
 # COVID19 Data visualization
-This repository contains the covid19 dataset for some countries and sourcecode for the data visualization. The python programing language is used to clean the data. The IDE used is Google colab. The data mostly covers from January-2020 to December-2021.The raw data are collected from websites that are easily avilable for public the link for each websites are also added below to the country or you can download it from this repository, the folder named as datasets.
+This repository contains the covid19 dataset for some countries and sourcecode for the data visualization. The python programing language is used to clean the data. The IDE used is Google colab. The data mostly covers from January-2020 to December-2021.The raw data are collected from websites that are easily avilable for public the link for each websites are also added below to the country or you can download it from this repository, the folder named as datasets.The data visualization tool used is flourish.
 
 ### Python libraries included:
 ---
