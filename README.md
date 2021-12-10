@@ -1,1 +1,2 @@
-# COVID19-India-data-visualization-
+# COVID19 Data visualization
+### This repository contains the the covid19 dataset and some soursecode for the data visualization
