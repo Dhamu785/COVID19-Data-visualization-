@@ -10,12 +10,16 @@ This repository contains the covid19 dataset for some countries and sourcecode f
 
 
 # India
-<img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Covid%2020-21%20INDIA.jpeg width=400>
-<pre><em><a href="https://public.flourish.studio/visualisation/7890235/" arget="_blank">Animated data visualization </a><em>
-<em><a href="https://data.covid19india.org/" arget="_blank">Data collected from </a><em></pre>
+<!--<img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Covid%2020-21%20INDIA.jpeg width=400>-->
 
 
+   Monthwise             |     Statewise
+:-------------------------:|:-------------------------:
+<img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Covid%2020-21%20INDIA.jpeg width=500 height=300>  |  <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Ind-states%2030%20Jan%202020%20to%2031%20Oct%202021(1).jpeg width=500 height=300>
 
+<pre><em><a href="https://public.flourish.studio/visualisation/7890235/" arget="_blank">Animated data visualization-Monthwise</a></em>
+<em><a href="https://public.flourish.studio/visualisation/7914098/" arget="_blank">Animated data visualization-Statewise</a></em>
+<em><a href="https://data.covid19india.org/" arget="_blank">Data collected from </a></em></pre>
 
 
 
