@@ -1,17 +1,14 @@
 # COVID19 Data visualization
-This repository contains the covid19 dataset for some countries and sourcecode for the data visualization. The python programing language is used to clean the data. The IDE used is Google colab. The data mostly covers from January-2020 to December-2021.The raw data are collected from websites that are easily avilable for public the link for each websites are also added below to the country or you can download it from this repository, the folder named as datasets.The data visualization tool used is flourish.
-
-[My Kaggle profile](https://www.kaggle.com/dhamur)
-
-### Python libraries included:
----
-* *pandas*
-* *matplotlib - (for visualization)*
-* *seaborn - (for visualization)*
-* *numpy*
+   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This repository contains the covid19 dataset for some countries and sourcecode for the data visualization. The python programing language is used to clean the data. The IDE used is Google colab. The data mostly covers from January-2020 to December-2021.The raw data are collected from websites that are easily avilable for public the link for each websites are also added below to the country or you can download it from this repository, the folder named as datasets.The data visualization tool used is flourish.</p>
 
 
-# India
+<pre><h3><b>For Data set and Notebooks</b><br></h3><b><a href="https://www.kaggle.com/dhamur" target="_blank">My Kaggle Profile</a></b><br></pre>
+
+
+<pre><h3>Python libaries included:</h3><ul style="list-style-type:square;"><td><i>- pandas</i></td><br><td><i>- numpy</i></td><br><td><i>- matplotlib (for visualization)</i></td><br><td><i>- seaborn (for visualization)</i></td><br><td><i>- plotly (for geo maping)</i></td></pre>
+
+
+# India (Jan-2020 to Oct-2021)
 <!--<img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Covid%2020-21%20INDIA.jpeg width=400>-->
 
 
@@ -19,9 +16,30 @@ This repository contains the covid19 dataset for some countries and sourcecode f
 :-------------------------:|:-------------------------:
 <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Covid%2020-21%20INDIA.jpeg width=500 height=300>  |  <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Ind-states%2030%20Jan%202020%20to%2031%20Oct%202021(1).jpeg width=500 height=300>
 
-<pre><em><a href="https://public.flourish.studio/visualisation/7890235/" arget="_blank">Animated data visualization-Monthwise</a></em>
-<em><a href="https://public.flourish.studio/visualisation/7914098/" arget="_blank">Animated data visualization-Statewise</a></em>
-<em><a href="https://data.covid19india.org/" arget="_blank">Data collected from </a></em></pre>
+<pre><em><a href="https://public.flourish.studio/visualisation/7890235/" target="_blank">Animated data visualization-Monthwise</a></em>
+<em><a href="https://public.flourish.studio/visualisation/7914098/" target="_blank">Animated data visualization-Statewise</a></em>
+<em><a href="https://data.covid19india.org/" target="_blank">Data collected from </a></em></pre>
+
+---
+
+# United States of America (Jan-2020 to Jan-2022)
+### *Only the COVID19 Confirmed cases*
+ <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20COVID19%20Confirmed.jpeg width=1000 height=500> 
+ 
+   Geo plot         |    Population vs Affected
+ :--------------------------:|:--------------------------------:
+ <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20geolocation%20COVID19%20COnfirmed%20cases(1).jpeg width=500 height=300> | <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20population%20vs%20affected%20first%2025.jpeg width=500 height=300>
+
+
+<pre><em><a href="https://public.flourish.studio/visualisation/8287951/" target="_blank">Animated data visualization-Confirmed and deaths</a></em>
+<em><a href="https://public.flourish.studio/visualisation/8285352/" target="_blank">Animated data visualization-Geo plot</a></em>
+<em><a href="https://public.flourish.studio/visualisation/8285607/" target="_blank">Animated data visualization-Population vs Confirmed cases</a></em>
+<em><a href="https://github.com/codebasics/py" target="_blank">Data collected from</a></em></pre>
+
+
+
+
+
 
 
 
