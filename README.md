@@ -5,7 +5,7 @@
 <pre><h3><b>For Data set and Notebooks</b><br></h3><b><a href="https://www.kaggle.com/dhamur" target="_blank"><i>My Kaggle Profile</i></a></b><br></pre>
 
 
-<pre><h3>Python libaries included:</h3><ul style="list-style-type:square;"><td><i>- pandas</i></td><br><td><i>- numpy</i></td><br><td><i>- matplotlib (for visualization)</i></td><br><td><i>- seaborn (for visualization)</i></td><br><td><i>- plotly (for geo maping)</i></td></pre>
+<pre><h3>Python libaries included:</h3><ul style="list-style-type:square;"><td><i>- pandas</i></td><br><td><i>- numpy</i></td><br><td><i>- matplotlib (for visualization)</i></td><br><td><i>- seaborn (for visualization)</i></td><br><td><i>- plotly (for geo mapping)</i></td></pre>
 
 
 # India (Jan-2020 to Oct-2021)
