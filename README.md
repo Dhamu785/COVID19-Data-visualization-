@@ -14,7 +14,7 @@
 
    Monthwise             |     Statewise
 :-------------------------:|:-------------------------:
-<img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Covid%2020-21%20INDIA.jpeg width=500 height=300>  |  <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Ind-states%2030%20Jan%202020%20to%2031%20Oct%202021(1).jpeg width=500 height=300>
+<a href="https://public.flourish.studio/visualisation/7890235/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Covid%2020-21%20INDIA.jpeg width=500 height=300></a>  |  <a href="https://public.flourish.studio/visualisation/7914098/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Ind-states%2030%20Jan%202020%20to%2031%20Oct%202021(1).jpeg width=500 height=300></a>
 
 <pre><em><a href="https://public.flourish.studio/visualisation/7890235/" target="_blank">Animated data visualization-Monthwise</a></em>
 <em><a href="https://public.flourish.studio/visualisation/7914098/" target="_blank">Animated data visualization-Statewise</a></em>
@@ -24,15 +24,15 @@
 
 # United States of America (Jan-2020 to Jan-2022)
 ### *Overall data*
-<img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20overall%20confirmed%20and%20deceased.jpeg width=1000 height=500> 
+<a href="https://public.flourish.studio/visualisation/8297004/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20overall%20confirmed%20and%20deceased.jpeg width=1000 height=500></a>
 
 ### *Only the COVID19 Confirmed cases*
- <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20COVID19%20Confirmed.jpeg width=1000 height=500> 
+ <a href="https://public.flourish.studio/visualisation/8287951/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20COVID19%20Confirmed.jpeg width=1000 height=500></a>
   
  
    Geo plot         |    Population vs Affected
  :--------------------------:|:--------------------------------:
- <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20geolocation%20COVID19%20COnfirmed%20cases(1).jpeg width=500 height=300> | <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20population%20vs%20affected%20first%2025.jpeg width=500 height=300>
+ <a href="https://public.flourish.studio/visualisation/8285352/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20geolocation%20COVID19%20COnfirmed%20cases(1).jpeg width=500 height=300></a> | <a href="https://public.flourish.studio/visualisation/8285607/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20population%20vs%20affected%20first%2025.jpeg width=500 height=300></a>
 
 
 <pre><em><a href="https://public.flourish.studio/visualisation/8297004/" target="_blank">Animated data visualization Overall data</a></em>
