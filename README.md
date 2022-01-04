@@ -16,9 +16,9 @@
 :-------------------------:|:-------------------------:
 <a href="https://public.flourish.studio/visualisation/7890235/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Covid%2020-21%20INDIA.jpeg width=500 height=300></a>  |  <a href="https://public.flourish.studio/visualisation/7914098/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/Ind-states%2030%20Jan%202020%20to%2031%20Oct%202021(1).jpeg width=500 height=300></a>
 
-<pre><em><a href="https://public.flourish.studio/visualisation/7890235/" target="_blank">Animated data visualization-Monthwise</a></em>
-<em><a href="https://public.flourish.studio/visualisation/7914098/" target="_blank">Animated data visualization-Statewise</a></em>
-<em><a href="https://data.covid19india.org/" target="_blank">Data collected from </a></em></pre>
+<pre><em>- <a href="https://public.flourish.studio/visualisation/7890235/" target="_blank">Animated data visualization-Monthwise</a></em>
+<em>- <a href="https://public.flourish.studio/visualisation/7914098/" target="_blank">Animated data visualization-Statewise</a></em>
+<em>- <a href="https://data.covid19india.org/" target="_blank">Data collected from </a></em></pre>
 
 ---
 
@@ -35,11 +35,11 @@
  <a href="https://public.flourish.studio/visualisation/8285352/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20geolocation%20COVID19%20COnfirmed%20cases(1).jpeg width=500 height=300></a> | <a href="https://public.flourish.studio/visualisation/8285607/" target="_blank"><img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20population%20vs%20affected%20first%2025.jpeg width=500 height=300></a>
 
 
-<pre><em><a href="https://public.flourish.studio/visualisation/8297004/" target="_blank">Animated data visualization Overall data</a></em>
-<em><a href="https://public.flourish.studio/visualisation/8287951/" target="_blank">Animated data visualization-Confirmed and deaths</a></em>
-<em><a href="https://public.flourish.studio/visualisation/8285352/" target="_blank">Animated data visualization-Geo plot</a></em>
-<em><a href="https://public.flourish.studio/visualisation/8285607/" target="_blank">Animated data visualization-Population vs Confirmed cases</a></em>
-<em><a href="https://github.com/codebasics/py" target="_blank">Data collected from</a></em></pre>
+<pre><em>- <a href="https://public.flourish.studio/visualisation/8297004/" target="_blank">Animated data visualization Overall data</a></em>
+<em>- <a href="https://public.flourish.studio/visualisation/8287951/" target="_blank">Animated data visualization-Confirmed and deaths</a></em>
+<em>- <a href="https://public.flourish.studio/visualisation/8285352/" target="_blank">Animated data visualization-Geo plot</a></em>
+<em>- <a href="https://public.flourish.studio/visualisation/8285607/" target="_blank">Animated data visualization-Population vs Confirmed cases</a></em>
+<em>- <a href="https://github.com/codebasics/py" target="_blank">Data collected from</a></em></pre>
 
 
 
