@@ -23,15 +23,20 @@
 ---
 
 # United States of America (Jan-2020 to Jan-2022)
+### *Overall data*
+<img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20overall%20confirmed%20and%20deceased.jpeg width=1000 height=500> 
+
 ### *Only the COVID19 Confirmed cases*
  <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20COVID19%20Confirmed.jpeg width=1000 height=500> 
+  
  
    Geo plot         |    Population vs Affected
  :--------------------------:|:--------------------------------:
  <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20geolocation%20COVID19%20COnfirmed%20cases(1).jpeg width=500 height=300> | <img src=https://github.com/Dhamu785/COVID19-Data-visualization-/blob/main/Images/USA/US%20population%20vs%20affected%20first%2025.jpeg width=500 height=300>
 
 
-<pre><em><a href="https://public.flourish.studio/visualisation/8287951/" target="_blank">Animated data visualization-Confirmed and deaths</a></em>
+<pre><em><a href="https://public.flourish.studio/visualisation/8297004/" target="_blank">Animated data visualization Overall data</a></em>
+<em><a href="https://public.flourish.studio/visualisation/8287951/" target="_blank">Animated data visualization-Confirmed and deaths</a></em>
 <em><a href="https://public.flourish.studio/visualisation/8285352/" target="_blank">Animated data visualization-Geo plot</a></em>
 <em><a href="https://public.flourish.studio/visualisation/8285607/" target="_blank">Animated data visualization-Population vs Confirmed cases</a></em>
 <em><a href="https://github.com/codebasics/py" target="_blank">Data collected from</a></em></pre>
