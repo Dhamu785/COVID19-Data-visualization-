@@ -1,0 +1,146 @@
+<!--<div class="flourish-embed flourish-chart" data-src="visualisation/8297004"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    <div class="flourish-embed flourish-chart" data-src="visualisation/8287951"><script src="https://public.flourish.studio/resources/embed.js"></script></div>-->
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+            <script src="ind.js"></script>    
+
+
+    <title>COVID19-India</title>
+    <link rel="shortcut icon" type="image" href="images/Untitled-4.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Prompt&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Langar&family=Nunito+Sans&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Miltonian+Tattoo&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Miltonian+Tattoo&display=swap" rel="stylesheet"> 
+
+    <style>
+        #confirmed {
+            background-color:rgb(255, 1, 1);
+        }
+        #heading, #grid-container{
+            font-family: 'Miltonian Tattoo', cursive;
+            color: #0366fc;
+            color: #ff0000;
+            font-size: 30px;
+
+        }
+        ul li{
+            display: inline;
+        }
+        #so{
+            height:3cm;
+            width:8cm;
+            margin-left: 50%;
+        }
+        .dot {
+            height: 15px;
+            width: 15px;
+            background-color: #ff0000;
+            border-radius: 50%;
+            display: inline-block;
+        }
+        #live{
+            margin-left: 50%;
+        }
+        #updating{
+            padding-left: -30cm;
+        }
+        .w3-third{
+            background-color:white;
+        }
+        
+
+    </style>        
+        </head>
+    <body style="background-color:black;">
+
+        
+<!--HEADER-->
+    <div class="w3-container w3-black" id="top">
+        
+           
+            
+            <h1 align="center" id="heading">COVID19  India  Visualization</h1>
+            <p id="info">This site is mainly built for mobiles users and the screen width less than 1200px.
+                <br>Any queries reach me through <a href="#bottom">instagram</a>.
+                <br>Last update: 07-Jan-2022
+            </p>
+        <div id="live">
+            <ul>
+                <li id="live"><span class="dot"></span></li>
+                <li id="updating"><b>LIVE</b></li>
+            </ul>
+        </div> 
+        
+    </div>
+    <div id="line">
+
+    </div>
+    
+<!--INDIA-->
+<div class="india"><h3 class="headings">India Data Visuals</h3></div>
+    
+    <div class="grid-container">
+        <div class="grid-item-p"><b>Population</b><br><b>138Cr</b></div>
+        <div class="grid-item-c"><b>Confirmed</b><br><b>3.54Cr</b><sup>+1.42L</sup></div>
+        <div class="grid-item-d"><b>Deceased</b><br><b>4.83L</b><sup>+285</sup></div>
+        
+    </div>
+    <div class="grid-container-two">
+        <div class="grid-item-pv"><b>1 Dose Vacinated<br>87.1C</b><sup>+85L</sup></div>
+        <div class="grid-item-v"><b>2 Dose Vacinated</b><br><b>62C</b><sup>+50L</sup></div> 
+        
+    </div>
+
+    
+    <div align="center">
+        <div id="visualization">   </div>
+      </div>
+   
+      <h3 class="subheading">All times of India</h3>
+      <div class="flourish-embed flourish-chart" data-src="visualisation/8323358"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      <h3 class="subheading">Last 30 days of India</h3>
+      <div class="flourish-embed flourish-chart" data-src="visualisation/8323607"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+<!--TAMIL NADU-->
+      <div class="india"><h3 class="headings">Tamil Nadu Data Visuals</h3></div>
+      <div class="grid-container">
+        <div class="grid-item-p"><b>Population</b><br><b>&#x212E; 72,147,030</b></div>
+        <div class="grid-item-c"><b>Confirmed</b><br><b>27.8L</b><sup>+8,981</sup></div>
+        <div class="grid-item-d"><b>Deceased</b><br><b>36,833</b><sup>+8</sup></div>
+        
+    </div>
+    <!--<div class="grid-container-two">
+        <div class="grid-item-pv"><b>1 Dose Vacinated<br>85C</b><sup>+66L</sup></div>
+        <div class="grid-item-v"><b>2 Dose Vacinated</b><br><b>61C</b><sup>+31L</sup></div> 
+        
+    </div>-->
+    <h3 class="subheading">All times of Tamil Nadu</h3>
+      <div class="flourish-embed flourish-chart" data-src="visualisation/8323762"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      <h3 class="subheading">Last 30 days of Tamil Nadu</h3>
+      <div class="flourish-embed flourish-chart" data-src="visualisation/8325330"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+      
+<!--Footer-->
+      <div style="background-color: black" id="foot">
+        <ul id="bottom">
+            <li ><a href="https://github.com/Dhamu785/COVID19-Data-visualization-" target="_blank"><img id="git"src="images/icons8-github-512.png"></li></a>
+            
+            <li ><a href="https://www.instagram.com/dhamu_pythonista/" target="blank"><img id="insta" src="images/insta.png"></li></a>
+            <li ><a href="https://github.com/Dhamu785/COVID19-Data-visualization-/tree/main/datasets" target="_blank"><img id="data" src="images/cloud-database.png"></li></a>
+            <li ><a href="https://www.kaggle.com/dhamur" target="_blank"><img id="kaggle" src="images/Kaggle.png"></li></a>
+        </ul>
+    </div>
+    </body>
+    </html>
+    
+    
+    

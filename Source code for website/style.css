@@ -1,0 +1,142 @@
+
+#line{
+    height: 1px;
+    width:100%;
+    background-color: black;
+}
+#second{
+    background-color:black;
+    height: 5cm;
+    width:100%;
+}
+#confirmed{
+    height:3cm;
+    width:30%;
+    background-color:white;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: black;
+    padding: 5px;
+  }
+  .grid-item-c {
+    background-color: black;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    color:#ff9100;
+    padding: 5px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 20px  #454545;
+    height:2cm;
+  }
+  .grid-item-d {
+    background-color: black;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    font-size: 15px;
+    color:#ff0000;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 20px  #454545;
+    height:2cm;
+  }
+  .grid-item-v {
+    background-color: black;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    font-size: 15px;
+    color:#00bd32;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 20px  #454545;
+    height:2cm;
+  }
+  .grid-item-pv {
+    background-color: black;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    font-size: 15px;
+    color:#00ffb7;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 20px  #454545;
+    height:2cm;
+  }
+  .grid-container-two {
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: black;
+    padding: 5px;
+  }
+  .grid-item-p {
+    background-color: black;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 5px;
+    font-size: 15px;
+    color:#ff007b;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: 2px 2px 20px  #595959;
+    height:2cm;
+  }
+  #foot{
+      height:40px;
+      width:100%;
+
+  }
+  #bottom{
+    display: table;
+    margin: 0 auto;
+      
+  }
+  #git{
+      height:35px;
+      width:30px;
+      padding-top: 5px;
+  }
+  #data{
+      height:30px;
+      width:30px;
+      padding-top: 5px;
+  }
+  #insta{
+      height:38px;
+      width:33px;
+      padding-top: 5px;
+  }
+  #kaggle{
+      height:35px;
+      width:43px;
+      padding-top: 5px;
+  }
+  .headings{
+    color: white;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size:30px;
+    font-family: 'Sofadi One', cursive;
+    color: #00b3ff;
+  }
+  .subheading{
+    font-family: 'Miltonian Tattoo', cursive;font-family: 'Miltonian Tattoo', cursive;
+    color: #009dff;
+    margin-left: 15px;
+  }
+  .india{
+    width: 100%;
+    height: 100%;
+    background-color:black;
+  }
+  #info{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+  }
+  
