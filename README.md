@@ -39,7 +39,8 @@
 <em>- <a href="https://public.flourish.studio/visualisation/8287951/" target="_blank">Animated data visualization-Confirmed and deaths</a></em>
 <em>- <a href="https://public.flourish.studio/visualisation/8285352/" target="_blank">Animated data visualization-Geo plot</a></em>
 <em>- <a href="https://public.flourish.studio/visualisation/8285607/" target="_blank">Animated data visualization-Population vs Confirmed cases</a></em>
-<em>- <a href="https://github.com/codebasics/py" target="_blank">Data collected from</a></em></pre>
+<em>- <a href="https://github.com/codebasics/py" target="_blank">Data collected from</a></em>
+<em>- <a href="https://github.com/covid19india/covid19india-react" target="_blank">Inspired from</a></em></pre>
 
 
 
