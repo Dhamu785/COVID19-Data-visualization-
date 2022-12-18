@@ -2,7 +2,7 @@
    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>This repository contains the covid19 dataset for some countries and python notebook for the data visualization. The python programing language is used to clean and process the data. The IDE used is Google colab. The data mostly covers from January-2020 to December-2021.The raw data are collected from websites, that are easily avilable for public.The link for each websites are also added below to the country or you can download it from this repository, the folder named as datasets.The data visualization tool used is flourish.</i></p>
 
 
-<pre><h3><b>For Data set and Notebooks</b><br></h3><b><a href="https://www.kaggle.com/dhamur" target="_blank"><i>My Kaggle Profile.</i></a></b><br></pre>
+<pre><h3><b>For Data set and Notebooks</b><br></h3><b><a href="https://www.kaggle.com/dhamur" target="_blank"><i>My Kaggle Profile</i></a></b><br></pre>
 
 
 <pre><h3>Python libaries included:</h3><ul style="list-style-type:square;"><td><i>- pandas</i></td><br><td><i>- numpy</i></td><br><td><i>- matplotlib (for visualization)</i></td><br><td><i>- seaborn (for visualization)</i></td><br><td><i>- plotly (for geo mapping)</i></td></pre>
